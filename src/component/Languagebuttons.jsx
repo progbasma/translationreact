@@ -5,6 +5,7 @@ const languages=[
     {code:'en', name:'English'    },
     {code:'ar', name:'العربية'    },
     {code:'fr', name:'Français'    },
+    {code:'de', name:'Deutsch'    },
     ];
 const changelang=(lng)=>{
     i18n.changeLanguage(lng);
